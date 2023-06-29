@@ -1,2 +1,2 @@
-# Olá, Mundo!
+# Olá, Mundo! Eu sou o Luiz Claudio e estou me desafiando...
  Primeiro repositorio do curso de Git e GitHub
